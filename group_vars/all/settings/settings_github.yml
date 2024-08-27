@@ -1,0 +1,4 @@
+---
+controller_settings_all:
+  settings:
+     SOCIAL_AUTH_GITHUB_ORG_NAME: "davit"
