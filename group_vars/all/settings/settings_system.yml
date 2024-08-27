@@ -5,3 +5,4 @@ controller_settings_all:
     ACTIVITY_STREAM_ENABLED: true
     DEFAULT_EXECUTION_ENVIRONMENT: 3
     TOWER_URL_BASE: 'https://davidthong'
+    SOCIAL_AUTH_GITHUB_ORG_NAME: "davit"
