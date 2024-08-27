@@ -6,3 +6,4 @@ controller_settings_all:
     DEFAULT_EXECUTION_ENVIRONMENT: 3
     TOWER_URL_BASE: 'https://davidthong'
     SOCIAL_AUTH_GITHUB_ORG_NAME: "davit"
+    ACTIVITY_STREAM_ENABLED: false
