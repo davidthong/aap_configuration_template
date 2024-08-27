@@ -24,6 +24,11 @@
             ah_token: "{{ ah_token['token'] }}"
           when: r_ah_token['changed'] # noqa: no-handler
 
+
+    - name: call settings role
+      ansible.builtin.include_role:
+         name: infra.controller_configuration.settings
+         
     - name: Call dispatch role
       ansible.builtin.include_role:
         name: infra.controller_configuration.dispatch
