@@ -3,5 +3,5 @@ controller_settings_all:
   settings:
     GALAXY_IGNORE_CERTS: true
     ACTIVITY_STREAM_ENABLED: true
-    DEFAULT_EXECUTION_ENVIRONMENT: 0
+    DEFAULT_EXECUTION_ENVIRONMENT: 3
     TOWER_URL_BASE: 'https://davidthong'
