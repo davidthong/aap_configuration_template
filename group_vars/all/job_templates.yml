@@ -1,5 +1,6 @@
 ---
 controller_templates_all:
+  
   - name: controller_config
     project: config_as_code
     job_type: run
