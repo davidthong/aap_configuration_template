@@ -1,0 +1,6 @@
+controller_settings_all:
+  settings:
+    GALAXY_IGNORE_CERTS: true
+    DEFAULT_EXECUTION_ENVIRONMENT: 3
+    SOCIAL_AUTH_GITHUB_ORG_NAME: "gitrub"
+ 

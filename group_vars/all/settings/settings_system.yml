@@ -1,0 +1,6 @@
+controller_settings_all:
+  settings:
+    ACTIVITY_STREAM_ENABLED_FOR_INVENTORY_SYNC: true
+    ACTIVITY_STREAM_ENABLED: true
+    TOWER_URL_BASE: 'https://AAP_USMED'
+ 
