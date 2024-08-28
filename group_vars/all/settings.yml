@@ -7,4 +7,4 @@ controller_settings_all:
     TOWER_URL_BASE: 'https://davidthong'
     SOCIAL_AUTH_GITHUB_ORG_NAME: "davit"
     ACTIVITY_STREAM_ENABLED: true
-    SOCIAL_AUTH_GOOGLE_OAUTH2_CALLBACK_URL: "davidchong"
+    SOCIAL_AUTH_GOOGLE_OAUTH2_CALLBACK_URL: "https://davidchong/sso/complete/google-oauth2/"
