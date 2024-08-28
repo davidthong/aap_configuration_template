@@ -6,5 +6,4 @@ controller_settings_all:
     TOWER_URL_BASE: 'https://davidchong'
     SOCIAL_AUTH_GITHUB_ORG_NAME: "davit"
     ACTIVITY_STREAM_ENABLED: true
-    ACTIVITY_STREAM_ENABLED_FOR_INVENTORY_SYNC: true
  
