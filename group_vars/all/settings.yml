@@ -65,8 +65,6 @@ controller_settings_all:
     LOG_AGGREGATOR_RSYSLOGD_DEBUG: False
     API_400_ERROR_LOG_FORMAT: status {status_code} received by user {user_name} attempting to access {url_path} from {remote_addr}
 
-
-
     # JOB SETTINGS
 
     AD_HOC_COMMANDS: ['command', 'shell', 'yum', 'apt', 'apt_key', 'apt_repository', 'apt_rpm', 'service', 'group', 'user', 'mount', 'ping', 'selinux', 'setup', 'win_ping', 'win_service', 'win_updates', 'win_group', 'win_user']
