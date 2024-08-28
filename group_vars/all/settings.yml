@@ -1,6 +1,7 @@
 controller_settings_all:
   settings:
+    ACTIVITY_STREAM_ENABLED_FOR_INVENTORY_SYNC: true
+    ACTIVITY_STREAM_ENABLED: true
+    TOWER_URL_BASE: 'https://aap'
     GALAXY_IGNORE_CERTS: true
     DEFAULT_EXECUTION_ENVIRONMENT: 3
-    SOCIAL_AUTH_GITHUB_ORG_NAME: "gitrub"
- 
